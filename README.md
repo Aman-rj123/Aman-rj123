@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Web Development** and **Basic Networking**
 
